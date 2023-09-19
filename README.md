@@ -1,4 +1,4 @@
-# hello-world
+# qr-generator-vue-3
 
 ## Project setup
 ```
